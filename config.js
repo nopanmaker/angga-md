@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
+global.owner = ['6285862754807']
+global.ownernomer = "6285862754807"
+global.premium = ['6285862754807']
 global.packname = 'Sticker By'
-global.author = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
+global.author = 'xyznopan'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/angga.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/AnggaXyzZ'
-global.myyt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
+global.mygit = 'https://github.com/NopanMaker'
+global.myyt = 'Ga Punya Asu'
+global.myytv = 'Gada'
 global.mygc = "https://chat.whatsapp.com/I1mlONQxvBlIk5lK7MnOfk"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
-global.akulaku = 'Bot By Angga'
-global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'xyznopan'
+global.akulaku = 'Bot By Nopan'
+global.ytname = 'Gada' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
